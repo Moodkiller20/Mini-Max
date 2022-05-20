@@ -29,3 +29,6 @@ Sample Input
 
 Sample Outpu
 10 14
+
+
+![image](https://user-images.githubusercontent.com/61130107/169444380-3ff7591c-d921-47fd-9023-218568cea15b.png)
